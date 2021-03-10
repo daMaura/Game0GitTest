@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class gemeinsamenFile : MonoBehaviour
 {
-    int test;
+    int testNeu;
     int nochEinTest;
     // Start is called before the first frame update
     void Start()

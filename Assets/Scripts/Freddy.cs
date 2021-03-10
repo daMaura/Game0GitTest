@@ -7,12 +7,8 @@ public class Freddy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("git ist nicht so leicht");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }

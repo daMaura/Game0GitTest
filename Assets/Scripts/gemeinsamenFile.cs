@@ -28,6 +28,7 @@ public class gemeinsamenFile : MonoBehaviour
     }
 
 
+
     public void DoCooolGei()
     {
         print("Halloooo");
@@ -39,6 +40,11 @@ public class gemeinsamenFile : MonoBehaviour
 
 
         print("Halloooo");
+
+
+    public void Sahratest()
+    {
+    print("testSahra")
 
     }
 }

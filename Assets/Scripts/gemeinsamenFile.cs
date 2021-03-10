@@ -27,4 +27,10 @@ public class gemeinsamenFile : MonoBehaviour
     {
         
     }
+
+
+    public void Sahratest()
+    {
+    print("testSahra")
+    }
 }

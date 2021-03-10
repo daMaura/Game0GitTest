@@ -42,9 +42,11 @@ public class gemeinsamenFile : MonoBehaviour
         print("Halloooo");
     }
 
-    private void JustDidSomething()
+
+private void DoSomething234()
     {
-        int habKeinPlanWasIchHierTue;
+        int habKeinPlanWasIchHierTueWirklich;
+        print("testSahra");
         
 
     }

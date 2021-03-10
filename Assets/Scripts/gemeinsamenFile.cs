@@ -27,4 +27,12 @@ public class gemeinsamenFile : MonoBehaviour
     {
         
     }
+
+    private void DoSomething()
+    {
+        int habKeinPlanWasIchHierTue
+
+
+
+    }
 }

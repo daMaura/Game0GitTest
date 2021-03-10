@@ -28,6 +28,7 @@ public class gemeinsamenFile : MonoBehaviour
     }
 
 
+<<<<<<< HEAD
 
     public void DoCooolGei()
     {
@@ -41,6 +42,15 @@ public class gemeinsamenFile : MonoBehaviour
 
         print("Halloooo");
 
+=======
+    private void DoSomething()
+    {
+        int habKeinPlanWasIchHierTue
+
+
+
+=======
+>>>>>>> c0ce0d2e168112952ec7c1329ce325a9bfca8fdc
 
     public void Sahratest()
     {

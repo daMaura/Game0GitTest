@@ -43,6 +43,7 @@ public class gemeinsamenFile : MonoBehaviour
     }
 
 
+
     private void DoSomethingasdasdfasdf() { }
 
     private void DoSomething234() { }
@@ -51,6 +52,13 @@ public class gemeinsamenFile : MonoBehaviour
 
     {
         int habKeinPlanWasIchHierTue;
+
+private void DoSomething234()
+    {
+        int habKeinPlanWasIchHierTueWirklich;
+        print("testSahra");
+        
+
 
     }
 

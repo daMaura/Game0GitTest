@@ -5,13 +5,12 @@ using UnityEngine;
 public class gemeinsamenFile : MonoBehaviour
 {
 
-<<<<<<< HEAD
+
     int i = 0;
-=======
+
     int nicht;
     int nochTest;
->>>>>>> d184034d9947303a1c18d55970bb8194d7f41fb2
-=======
+
     int testNeu;
 
     int nochEinTest;
@@ -19,12 +18,27 @@ public class gemeinsamenFile : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print("Freddy war hier!!!!")
+        print("Freddy war hier!!!!");
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+
+    public void DoCooolGei()
+    {
+        print("Halloooo");
+
+
+
+        print("Halloooo");
+        print("Halloooo");
+
+
+        print("Halloooo");
+
     }
 }

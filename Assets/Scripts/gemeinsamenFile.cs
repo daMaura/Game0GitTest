@@ -24,11 +24,10 @@ public class gemeinsamenFile : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
 
-<<<<<<< HEAD
 
     public void DoCooolGei()
     {
@@ -41,20 +40,18 @@ public class gemeinsamenFile : MonoBehaviour
 
 
         print("Halloooo");
+    }
 
-=======
     private void DoSomething()
     {
-        int habKeinPlanWasIchHierTue
+        int habKeinPlanWasIchHierTue;
 
+    }
 
-
-=======
->>>>>>> c0ce0d2e168112952ec7c1329ce325a9bfca8fdc
 
     public void Sahratest()
     {
-    print("testSahra")
+        print("testSahra");
 
     }
 }

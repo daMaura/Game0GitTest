@@ -8,6 +8,7 @@ public class TestInGit : MonoBehaviour
     void Start()
     {
         print("Ich wette zu 100% wir werden noch irgendwas verhauen damit xD !");
+        print("mal schauen der große vorteil ist das man alles zurücksetzten kann :D");
     }
 
     // Update is called once per frame
